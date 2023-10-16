@@ -1,0 +1,58 @@
+@media screen and (max-width: 1600px) {
+
+    nav {
+      display: none;
+    }
+    
+    #Header_button {
+      display: block;
+    }
+  
+    #Header_div_box {
+      width: 90%;
+    }
+  
+    #Home {
+      width: 90%;
+    }
+
+    /* About */
+  
+    #About_box {
+      width: 90%;
+    }
+    
+    /* Borders */
+
+    #border_v1_text span{
+      display: none;
+    }
+
+    #border_v2_text span{
+      display: none;
+    }
+
+    /* Price */
+
+    #Price {
+      height: 1500px
+    }
+    
+    #Price_box {
+      height: 1500px;
+      display: flex;
+      align-items: center;
+    }
+
+    #Price_cards_box {
+      display: block;
+      height: auto;
+    }
+    
+    #Price_div_tablet {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+    }
+
+}
